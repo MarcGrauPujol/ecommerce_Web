@@ -2,4 +2,4 @@
 Web page El Pollestró; 
 Web page Electrodomèstics Maresme
 
-![image](https://user-images.githubusercontent.com/75749590/147106972-6c411ca1-41cf-4f44-9600-6fa03a006abc.png)
+![image](https://user-images.githubusercontent.com/75749590/147107384-c2dd1728-b041-48aa-8ad1-befd15ddc3c2.png)
